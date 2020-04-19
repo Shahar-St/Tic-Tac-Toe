@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_TicTacToe.142658980.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Desktop\Computer Science\side projects\C#\TicTacToe\TicTacToe" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TicTacToe" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="MarkType.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+        <e p="TicTacToe.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TicTacToe.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
