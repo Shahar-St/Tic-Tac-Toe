@@ -10,3 +10,4 @@ Written in `C#` and GUI with `WPF`.
 
 ## How can I run it?
 
+Clone the project and run it through VS or JetBrains Rider.
