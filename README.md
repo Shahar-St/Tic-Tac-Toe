@@ -6,8 +6,8 @@ A simple and classy Tic-Tac-Toe. [credit](https://www.youtube.com/watch?v=mnTyiU
 
 ## How was it built?
 
-Written in `C#` and GUI with `WPF`.
+Written in `C#`, GUI with `WPF`.
 
 ## How can I run it?
 
-Clone the project and run it through VS or JetBrains Rider.
+Clone the project and run it through your IDE.
